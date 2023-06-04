@@ -8,4 +8,4 @@ En este repositorio encontrará un proyecto consistente en un Conversor de Moned
 ## Tecnologias empleadas
 1- Java 11
 2.- Biblioteca de interfaz gráfica Swing
-2- Eclipse IDE
+3- Eclipse IDE
